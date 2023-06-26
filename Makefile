@@ -3,4 +3,3 @@ build::
 
 upload:: build
 	scp bin/metaman nas:~/apps/metaman/metaman
-	rm -f bin/metaman
